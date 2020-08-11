@@ -15,7 +15,9 @@ freeCodeCamp.org is an amazing initiative and an excellent, free resource helpin
 - [x] Responsive Web Design Projects
 
 ## JavaScript Algorithms and Data Structures Certification
-- [x] Regular Expressions
+- [x] Basic javaScript
+- [ ] ES6
+- [ ] Regular Expressions
 - [ ] Debugging
 - [ ] Basic Data Structures
 - [ ] Algorithm Scripting
